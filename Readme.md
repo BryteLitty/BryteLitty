@@ -3,7 +3,7 @@
 
 ### Full-Stack Developer
 
-I am passionate about Software Engineering. I'm dedicated to building user-centered digital solutions that meet business needs. 
+Passionate about Software Engineering and dedicated to building user-centered digital solutions that meet business needs. 
 
 <a href="https://wakatime.com/@7b7ed87e-b30a-4811-b661-c6b3680ee5fa"><img src="https://wakatime.com/badge/user/7b7ed87e-b30a-4811-b661-c6b3680ee5fa.svg" alt="Total time coded since Sep 23 2021" /></a>
 
